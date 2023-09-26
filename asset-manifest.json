@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-addtocart/static/css/main.2bc1bbfd.css",
+    "main.js": "/react-redux-addtocart/static/js/main.1993d7d8.js",
+    "static/media/logo.svg": "/react-redux-addtocart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-redux-addtocart/index.html",
+    "main.2bc1bbfd.css.map": "/react-redux-addtocart/static/css/main.2bc1bbfd.css.map",
+    "main.1993d7d8.js.map": "/react-redux-addtocart/static/js/main.1993d7d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc1bbfd.css",
+    "static/js/main.1993d7d8.js"
+  ]
+}
